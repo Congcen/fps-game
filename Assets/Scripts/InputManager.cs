@@ -29,7 +29,7 @@ public class InputManager : MonoBehaviour
         onFoot.Enable();
     }
     // Update is called once per frame
-    private void OnDsiable()
+    private void OnDisable()
     {
         onFoot.Disable();
     }
