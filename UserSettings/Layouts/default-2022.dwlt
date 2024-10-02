@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 919
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 52
+  controlID: 41
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -69,8 +69,8 @@ MonoBehaviour:
     y: 0
     width: 370
     height: 869
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 53
+  controlID: 42
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 47
+  controlID: 43
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -514,14 +514,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Cong Cen\My project (1)
+  m_LastProjectPath: C:\Users\Cong Cen\Documents\GitHub\fps-game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 505d0000
-    m_LastClickedID: 23888
-    m_ExpandedIDs: 00000000505d000000ca9a3bffffff7f
+    m_SelectedIDs: f05c0000
+    m_LastClickedID: 23792
+    m_ExpandedIDs: 00000000f05c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -549,7 +549,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000505d0000
+    m_ExpandedIDs: 00000000f05c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -689,9 +689,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2cebffff
-      m_LastClickedID: -5332
-      m_ExpandedIDs: 74f8ffff
+      m_SelectedIDs: 9e5c0000
+      m_LastClickedID: 23710
+      m_ExpandedIDs: 20fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1084,9 +1084,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.7711453, y: -3.6906767, z: 5.500102}
+    m_Target: {x: -0.060260046, y: 0.88182503, z: -0.14048675}
     speed: 2
-    m_Value: {x: 2.7711453, y: -3.6906767, z: 5.500102}
+    m_Value: {x: -0.060260046, y: 0.88182503, z: -0.14048675}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1132,13 +1132,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.36168295, y: 0.2184648, z: -0.08758925, w: -0.90210515}
+    m_Target: {x: -0.31575006, y: -0.51598233, z: 0.21228397, w: -0.7674712}
     speed: 2
-    m_Value: {x: -0.3616817, y: 0.21846405, z: -0.08758894, w: -0.90210205}
+    m_Value: {x: -0.31606618, y: -0.5148273, z: 0.2118088, w: -0.76823956}
   m_Size:
-    m_Target: 7.8413887
+    m_Target: 3.3963044
     speed: 2
-    m_Value: 7.8413887
+    m_Value: 3.3963044
   m_Ortho:
     m_Target: 0
     speed: 2
